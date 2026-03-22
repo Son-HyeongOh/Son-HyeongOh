@@ -5,6 +5,8 @@
 
 :school_satchel: Information & Statistics, Data Science, Kangwon National University(KNU) (2018 - present)
 
+📚 Research Interest: Industrial Anomaly Detection / XAI / Industrial LLM
+
 <br/>
 
 # :wrench: Tech Stack
