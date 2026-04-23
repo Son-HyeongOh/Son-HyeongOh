@@ -7,6 +7,10 @@
 
 📖 Research Interest: Industrial Anomaly Detection / XAI / Industrial LLM
 
+CV         https://drive.google.com/file/d/1CedLhN77xv9UNocwATIJkx2IiDJ4lmhF/view?usp=drive_link
+
+Portfolio  https://drive.google.com/file/d/1juOB_4t-DQW5WeGnDFLZeZo8RAvGzsT1/view?usp=drive_link
+
 <br/>
 
 # :wrench: Tech Stack
